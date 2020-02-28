@@ -8,7 +8,7 @@ MatLab files are run using the MatLab program.
 ## Naming Convention:  
 Each file was named to be able to be turned into the SE160A class. The files and description of what they do are follows:  
 
- *  Cros-Section Properties - SE160A_1_Landgraf_Steven
+ *  Cross-Section Properties - SE160A_1_Landgraf_Steven
 
  *  Loads - SE160A_2_Landgraf_Steven
 
